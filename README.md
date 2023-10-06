@@ -10,7 +10,9 @@ Athena Data Engineer Interview
 # Execution
 The notebooks located in the Bigdata Directory should be run in the following order.
     1.    Landing to Bronze
+    
     2.    Bronze to Silver
+    
     3.    Silver to Gold.
     
 # Upload Original File:
