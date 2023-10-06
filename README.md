@@ -1,14 +1,20 @@
 # Athena
 Athena Data Engineer Interview
 # Project Structure
+
 |_Bigdata
+
 |_DataLake
+
 |_Athena InterView.pdf
+
 |_LICENSE
+
 |_README.md
 
 # Execution
 The notebooks located in the Bigdata Directory should be run in the following order.
+
     1.    Landing to Bronze
     
     2.    Bronze to Silver
